@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Psychizzy
+- 👋 Hi, I’m Oluwaseyi 
 - 👀 I’m interested in data analytics, business intelligence, and using data-driven insights to solve real-world problems.
 - 🌱 I’m currently learning Python and enhancing my skills in SQL and Power BI.
 - 💞️ I’m looking to collaborate on projects related to data analysis, dashboard design, and any initiatives that focus on improving operational efficiencies.
